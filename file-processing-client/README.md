@@ -1,0 +1,1 @@
+$ENV:GOOGLE_APPLICATION_CREDENTIALS="./trusty-magnet-457114-g8-e9b9d0099c9f.json"
